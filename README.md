@@ -1,2 +1,2 @@
 # courseworkcodes
-Codes for coursework
+This repo contains codes for coursework problem sets, projects as well as possible data.
